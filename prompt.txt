@@ -1,0 +1,6 @@
+Dato il seguente quesito di un quiz, fornisci una motivazione e spiegazione per la risposta contrassegnata come vera (V).
+
+[QUESTION]
+
+NON DEVI ripetere quale é la risposta corretta in quanto é giá segnata.
+inizia direttamente con "Motivazione e spiegazione : "
